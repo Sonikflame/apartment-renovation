@@ -1,4 +1,4 @@
-# Лендинг "Ремонт квартир в Тамбове"
+# Лендинг "Ремонт квартир в Тамбове" 
 
 Учебный проект доступен по адресу [https://sonikflame.github.io/apartment-renovation/](https://sonikflame.github.io/apartment-renovation/).
 
